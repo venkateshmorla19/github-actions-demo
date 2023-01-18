@@ -9,7 +9,7 @@ const ProductDetails = (props: any) => {
     return (
         <>
             <Head>
-                <title>{props.title}</title>
+                <title>{props.title} | app</title>
                 <meta name="description" content={props.description} />
             </Head>
             <div>

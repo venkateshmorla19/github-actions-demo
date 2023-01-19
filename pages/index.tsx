@@ -8,7 +8,7 @@ export default function Home(props:any) {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <main>
-        Home Page Change for singing
+        Home Page Change for 
       </main>
     </>
   )

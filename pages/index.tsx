@@ -12,6 +12,7 @@ export default function Home(props:any) {
       </section>
       <main>
         Home Page Change for 
+        <h1>Header text</h1>
       </main>
     </>
   )

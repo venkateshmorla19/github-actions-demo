@@ -11,7 +11,7 @@ export default function Home(props:any) {
         side nav
       </section>
       <section>
-        right nav
+        right posted
       </section>
       <main>
         Home Page Change for 

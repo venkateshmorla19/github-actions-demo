@@ -10,6 +10,9 @@ export default function Home(props:any) {
       <section>
         side nav
       </section>
+      <section>
+        right nav
+      </section>
       <main>
         Home Page Change for 
       </main>

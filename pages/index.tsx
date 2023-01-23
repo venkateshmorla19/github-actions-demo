@@ -11,7 +11,7 @@ export default function Home(props:any) {
         side nav
       </section>
       <main>
-        Home Page Change for 
+        Updated Home Page 
         <h1>Header text</h1>
       </main>
     </>

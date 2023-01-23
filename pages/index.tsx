@@ -7,6 +7,9 @@ export default function Home(props:any) {
         <title>Home App</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
+      <nav>
+        Nav content
+      </nav>
       <section>
         side nav
       </section>
